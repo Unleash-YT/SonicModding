@@ -1,1 +1,2 @@
+add raw/gedit/w02a10_gedit.pac
 add mod.ini
