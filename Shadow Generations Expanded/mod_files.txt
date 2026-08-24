@@ -1,2 +1,4 @@
-add raw/gedit/w03a10_gedit.pac
+add raw/stage/w04a10
+add raw/stage/w04a10/w04a10_trr_cmn.pac
+add raw/gedit/w04a10_gedit.pac
 add mod.ini
