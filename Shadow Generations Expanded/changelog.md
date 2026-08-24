@@ -1,3 +1,6 @@
+## Shadow Generations Expanded V1.5
+- Huge new additions to Sunset Heights Act 1
+
 ## Shadow Generations Expanded V1.4
 - Huge new additions to Kingdom Valley Act 1
 
