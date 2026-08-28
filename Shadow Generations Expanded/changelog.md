@@ -1,3 +1,6 @@
+## Shadow Generations Expanded V1.51
+- Kingdom Valley Act 1 now plays "The Water" upon reaching the Mach Speed Segment
+
 ## Shadow Generations Expanded V1.5
 - Huge new additions to Sunset Heights Act 1
 
