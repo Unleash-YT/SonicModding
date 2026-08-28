@@ -1,4 +1,4 @@
 add raw/gedit/w03a10_gedit.pac
-add raw/sound/resident_sound/bgm_miller.acb
-add raw/sound/resident_sound/bgm_miller.awb
+delete raw/sound/resident_sound/bgm_miller.acb
+delete raw/sound/resident_sound/bgm_miller.awb
 add mod.ini
